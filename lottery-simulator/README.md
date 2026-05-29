@@ -3,10 +3,16 @@ This covers basic and random functions, loops, logic, and many more. A simulatio
 ### _IMPORTANT_!
 Install colorama in your Termal by pasting the code there (pip install colorama). Otherwise, the code will not run as it lacks the necessary files.
 ### How to Use?
-1. Download the file here:
+1. Download the file here: [Lottery-Sim](https://github.com/ballanigue/Foundational-Exercises/blob/main/lottery-simulator/LotterySim.py)
 2. Run the code in whichever apps you use (Windows Powershell, VS Code, etc...)
 3. Upon running the code, a menu will appear and it will ask the user what they want to do
 ### Contents of the Lottery Simulator
 - Generating Tickets, the user is up to how many times they wish to generate.
 - Draw a Winning Number
 - Display the Number of Winners in the Set of Tickets Generated.
+### Code Used 
+- Functions: generate_ticket, draw_numbers, search_winners
+- Constant: run
+- Boolean
+- Loops
+- etc...
