@@ -9,7 +9,13 @@ Install colorama in your Termal by pasting the code there (pip install colorama)
 - Generating Tickets, the user is up to how many times they wish to generate.
 - Draw a Winning Number
 - Display the Number of Winners in the Set of Tickets Generated.
-### Grade Calculation System
-A grade calculator system that determines your letter grade depending on what score is provided.
+
+### [Calculate Grade](https://github.com/ballanigue/Foundational-Exercises/tree/main/calculate-grade)
+Mainly focuses on boolean and condition functions. A code that asks the user for score and calculates its letter grade.
+#### Contents of the Calculate Grade
+- Determines the letter grade based on the scores given by user
+- Range of A+ to F-
+- Consist of performance task, test, seatwork, and recitation
+
 ### Core exercises
 Programming workout and exercises to learn how the code works.
