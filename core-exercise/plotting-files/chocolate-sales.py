@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 #Data 1 - Chocolate Sales per Country (Country and Boxes Shipped)
-data = pd.read_csv("C:\\Users\\Bea\\Desktop\\Coding\\Chocolate_Sales.csv.csv")
+data = pd.read_csv("C:\\Users\\User\\Desktop\\Coding\\Chocolate_Sales.csv.csv")
 plt.rcParams.update({'font.size': 8})
 sales_person = np.array(data['Sales Person'])
 country = np.array(data['Country'])
