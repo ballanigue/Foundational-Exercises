@@ -6,3 +6,6 @@ The product of an integer and all the positive integers below it.
 ## Loops
 A control structure that repeats a block of code continuosly as long as a specific condition remains true.
 - File: [loops.py](https://github.com/ballanigue/Foundational-Exercises/blob/main/core-exercise/loops.py)
+## Plotting
+Matplotlib is the core of library used for plotting graphs and data visiualizations in Python
+- File: [plotting.py](https://github.com/ballanigue/Foundational-Exercises/blob/main/core-exercise/plotting.py)
