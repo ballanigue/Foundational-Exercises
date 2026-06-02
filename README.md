@@ -21,3 +21,4 @@ Mainly focuses on boolean and condition functions. A code that asks the user for
 Programming workout and exercises to learn how the code works. Full list of small codes/programs:
 - Factorial
 - Loops
+- Plotting
