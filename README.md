@@ -22,3 +22,4 @@ Programming workout and exercises to learn how the code works. Full list of smal
 - Factorial
 - Loops
 - Plotting
+- Debugging
